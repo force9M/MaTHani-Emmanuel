@@ -1,5 +1,7 @@
 👋 Hi there
+
 👀I'm interested in Web Development and DevOps
+
 🌱Currently, I'm learning more on the web development and Version Control
 
 
