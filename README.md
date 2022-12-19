@@ -1,4 +1,4 @@
-👋 Hi there
+👋 Hi there, Emmanuel Here
 
 👀I'm interested in Web Development and DevOps
 
