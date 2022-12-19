@@ -2,10 +2,10 @@
 
 👀I'm interested in Web Development and DevOps
 
-🌱Currently, I'm learning more on the web development and Version Control
+🌱Currently, I'm more deep into web development and Version Control
 
 
- ⚡Mbappe is The Real Deal
+⚡Mbappe is The Real Deal
  
  
 
