@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathani-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="mathani-emmanuel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mathani" target="blank"><img src="https://img.shields.io/twitter/follow/mathani?logo=twitter&style=for-the-badge" alt="mathani" /></a> </p>
 
 - 🔭 I’m currently working on **A sample Ecommerce project**
 
@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emmanuel mathani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel mathani" height="30" width="40" /></a>
+<a href="[https://twitter.com/mathani](https://twitter.com/EM_mathani)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathani" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/emmanuel mathani](https://www.linkedin.com/in/emmanuel-mathani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel mathani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
